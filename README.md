@@ -1,7 +1,7 @@
-🛒 # **Shopping Cart Microservice Project** 
+ # **Shopping Cart Microservice Project** 
 A scalable microservice project for CRUD product and inventory management and order service
 
-🤖 ## **Techs**
+ ## **Techs** 
 - Java 21
 - Spring boot 3.*
 - Spring Security
@@ -37,5 +37,7 @@ A scalable microservice project for CRUD product and inventory management and or
 6. **Run the application**:
    - Run the discovery-server first until the service is up and running
    - Run all the services including API-Gateway
-   - Since i have not yet containerized the services, you should run the services separately
+   - Since I have not yet containerized the services, you should run the services separately
+
+
 
