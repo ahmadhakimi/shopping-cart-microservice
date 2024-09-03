@@ -1,6 +1,11 @@
  # **Shopping Cart Microservice Project** 
 A scalable microservice project for CRUD product and inventory management and order service
 
+## **High-level architecture view**
+
+
+![shopping-cart-microservice-thumbnail](https://github.com/user-attachments/assets/1ca1602f-982a-4c22-85e5-04a28907fba2)
+
  ## **Techs** 
 - Java 21
 - Spring boot 3.*
